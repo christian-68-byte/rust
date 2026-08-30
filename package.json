@@ -1,0 +1,6 @@
+{
+  "name": "app-lib83",
+  "version": "1.4.3",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
